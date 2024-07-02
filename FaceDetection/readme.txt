@@ -12,7 +12,7 @@ This project demonstrates a simple face detection script using OpenCV's pre-trai
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com//face-detection.git
+    git clone https://github.com/opyash218/AspireNex/blob/main/FaceDetection/facedection.py
     cd face-detection
     ```
 
